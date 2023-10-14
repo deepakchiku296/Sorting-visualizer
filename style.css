@@ -1,0 +1,25 @@
+#navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 10%;
+}
+
+.graph-container {
+    height: 50vh;
+    width: 70vw;
+    /* background-color: blanchedalmond; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.graph {
+
+    display: flex;
+    border: 2px solid gray;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+    height: 40vh;
+    width: 60vh;
+    align-items: end;
+}
